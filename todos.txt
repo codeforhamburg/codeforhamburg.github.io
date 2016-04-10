@@ -1,0 +1,21 @@
+Offline to-do's List:
+
+- _includes/footer.html:spreadsheet zum editieren der projekte anpassen --> gibts nen codeforhamburg google account?
+
+- CfA API lernen... ggf. clonen und selber hosten?
+
+- Hintergrund-Bild --> wo verlinkt --> sfbrigade.css --> umbennen in codeforhamburg.css
+
+    .banner_ndoch {
+      height: 400px;
+      background-image: url({{site.baseurl}}/images/goldengate-top.jpg);
+      background-size: cover;
+      background-position: center bottom;
+      margin-bottom: 20px;
+      color: #fff;
+    }
+
+- _includes/comments.html:  comments / disquss deaktivieren? eigenen Account? Wie läft das?
+
+- _includes/updates.html: eigenen  Github-Account rein packen... Logik verstehen wie der Update-Workflow gedacht ist.
+

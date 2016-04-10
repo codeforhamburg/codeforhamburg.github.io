@@ -1,9 +1,11 @@
 # CodeForSanFrancisco.org [![Build Status](https://travis-ci.org/sfbrigade/sfbrigade.github.io.svg?branch=master)](https://travis-ci.org/sfbrigade/sfbrigade.github.io)
 
-The website for the Code for San Francisco Brigade
+The website for the Code for Hamburg Lab
+
+The Source Code is a fork of the lovely CodeforSanfrancisco Site - thank you @SFbrigade !!
 
 ### Goals
-1. Explain what Code for San Francisco is and the type of work we do.
+1. Explain what Code for Hamburg is and the type of work we do.
 2. To celebrate our events, projects, and discussions!
 4. Encourage current and new members to participate with clear ways to get involved.
 5. To have this site be easily reused by other Brigades just starting out.

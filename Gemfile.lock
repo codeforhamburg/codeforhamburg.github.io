@@ -11,6 +11,7 @@ GEM
     blankslate (2.1.2.4)
     celluloid (0.16.0)
       timers (~> 4.0.0)
+    charlock_holmes (0.7.3)
     classifier-reborn (2.0.3)
       fast-stemmer (~> 1.0)
     coffee-script (2.4.1)
@@ -18,10 +19,16 @@ GEM
       execjs
     coffee-script-source (1.9.1.1)
     colorator (0.1)
+    escape_utils (1.1.0)
     execjs (2.5.2)
     fast-stemmer (1.0.2)
     ffi (1.9.8)
     gemoji (2.1.0)
+    github-linguist (4.8.2)
+      charlock_holmes (~> 0.7.3)
+      escape_utils (~> 1.1.0)
+      mime-types (>= 1.19)
+      rugged (>= 0.23.0b)
     github-pages (34)
       RedCloth (= 4.2.9)
       github-pages-health-check (~> 0.2)
@@ -90,6 +97,9 @@ GEM
       rb-inotify (>= 0.9)
     maruku (0.7.0)
     mercenary (0.3.5)
+    mime-types (3.0)
+      mime-types-data (~> 3.2015)
+    mime-types-data (3.2016.0221)
     mini_portile (0.6.2)
     minitest (5.6.0)
     net-dns (0.8.0)
@@ -107,6 +117,7 @@ GEM
       ffi (>= 0.5.0)
     rdiscount (2.1.7)
     redcarpet (3.1.2)
+    rugged (0.25.0b1)
     safe_yaml (1.0.4)
     sass (3.4.13)
     terminal-table (1.4.5)
@@ -123,4 +134,8 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  github-linguist
   github-pages
+
+BUNDLED WITH
+   1.11.2

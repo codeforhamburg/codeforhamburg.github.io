@@ -1,13 +1,13 @@
 permalink: /:categories/:title/
 markdown: kramdown
-url: "http://codeforsanfrancisco.org"
+url: "http://codefor.hamburg"
 defaultbranch: master
 
-name: Code for San Francisco
-description: A volunteer civic technology group.
+name: Code for Hamburg
+description: Ein ehrenamtliches Labor für Apps & Website-Entwicklung für die Allgemeinheit
 
 owner:
-  twitter: sfbrigade
+  twitter: codeforhamburg
 
 gems:
   - jekyll-redirect-from
@@ -15,7 +15,7 @@ gems:
 prose:
   media: 'images/uploads'
   rooturl: '_posts'
-  siteurl: http://codeforsanfrancisco.org
+  siteurl: http://codefor.hamburg
   ignore:
     - index.md
     - _config.yml

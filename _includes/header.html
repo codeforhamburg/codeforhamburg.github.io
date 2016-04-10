@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <title>{{page.title}}</title>
-  <meta name="description" content="San Francisco locals helping San Francisco government and local organizations open their data and create meaningful tools" />
+  <meta name="description" content="Ehrenamtliche Programmierer, Ideengeber und Kreative, Verwaltungsmitglieder und Interessierte aus Hamburg und Umgebung treffen sich und entwicklen gemeinsam Projekte und Programme (Websites, Apps) rund um offene Daten (Open Data)"/>
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   {% if page.author %}
       {% assign author = site.data.authors[page.author] %}{% else %}{% assign author = site.owner %}
@@ -34,19 +34,21 @@
           <span class="icon-bar"></span>
           <span class="icon-bar"></span>
         </button>
-        <a class="navbar-brand" href="{{ site.baseurl }}/">Code for San Francisco</a>
+        <a class="navbar-brand" href="{{ site.baseurl }}/">
+        Code for Hamburg
+        </a>
       </div>
 
       <!-- Collect the nav links, forms, and other content for toggling -->
       <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
         <ul class="nav navbar-nav">
-          <li><a href="{{ site.baseurl }}/about">About</a></li>
-          <li><a href="{{ site.baseurl }}/projects">Projects</a></li>
-          <li><a href="{{ site.baseurl }}/events">Events</a></li>
+          <li><a href="{{ site.baseurl }}/ueber-uns">Über uns</a></li>
+          <li><a href="{{ site.baseurl }}/projekte">Projekte</a></li>
+          <li><a href="{{ site.baseurl }}/veranstaltungen">Veranstaltungen</a></li>
           <!-- li><a href="http://www.meetup.com/Code-for-San-Francisco-Civic-Hack-Night/">Events</a></li -->
-          <li><a href="{{ site.baseurl }}/blog">Our Stories</a></li>
-          <li><a href="{{site.baseurl}}/signup">Newsletter</a></li>
-          <li class="featured-nav-link"><a href="{{ site.baseurl }}/getstarted">Get Started</a></li>
+          <!-- <li><a href="{{ site.baseurl }}/blog">Our Stories</a></li> -->
+          <!-- <li><a href="{{site.baseurl}}/signup">Newsletter</a></li>-->
+          <li class="featured-nav-link"><a href="{{ site.baseurl }}/getstarted">NEU im Lab?</a></li>
         </ul>
         <ul class="nav navbar-nav navbar-right">
           <!-- <li class="featured-nav-link" style="padding-right:15px;"><a href="https://www.codeforamerica.org/brigade/Code-for-San-Francisco/checkin/?event=Hack+Night&question=What+do+you+most+like+doing+at+Hack+Night?">Hack Night Check In</a></li> -->
@@ -60,6 +62,7 @@
           <span>Description</span>
         </div>
       PASTE BELOW THIS LINE -->
+      <!-- 
       <div style="display:none; padding-top:10px; padding-bottom:10px;" class="alert alert-info check-in-banner" role="alert">
         <strong>At Hack Night right now?</strong>
         <span> Code for San Francisco gets funding based on attendance. Do us a favor and
@@ -67,7 +70,7 @@
             <button class="btn btn-primary" style="color:white;  font-size:18px; font-family: 'Quattrocento', 'Georgia',serif; padding:2px 15px;">Check In!</button></a>
         </span>
       </div>
-
+      -->
       {% if page.is_front %}
 
          <!-- Carousel - only using one at the moment
@@ -84,14 +87,14 @@
             <div class="item active">
               <div class="container">
                 <div class="jumbotron col-md-12">
-                  <h1>We are Code for San Francisco</h1>
+                  <h1>Willkommen bei Code for Hamburg</h1>
                   <div class="row">
                   <p class="lead col-md-10 col-md-offset-1">
-                    We meet every week to hack for change. Join us, everyone is welcome!
-                  </p>
+                    Wir treffen uns jede Woche um digitale Lösungen für alle zu bauen!</p>
                   </div>
                   <div class="row">
-                    <a class="btn btn-lg btn-hack" href="http://www.meetup.com/Code-for-San-Francisco-Civic-Hack-Night/">Join us for an upcoming Weekly Civic Hack Night!</a>
+                    <a class="btn btn-lg btn-hack" href="http://www.meetup.com/codeforhamburg/">Komm vorbei! </a>
+                    <!-- Jeden 1. Montag im Monat "OPEN NIGHT" | jeden 2. - 4. Montag "Coding Night" -->
                   </div>
                 </div>
               </div>
