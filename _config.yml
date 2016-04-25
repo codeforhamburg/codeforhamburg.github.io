@@ -1,6 +1,6 @@
 permalink: /:categories/:title/
 markdown: kramdown
-url: "http://codefor.hamburg"
+url: "http://codeforhamburg.org"
 defaultbranch: master
 
 name: Code for Hamburg
@@ -15,7 +15,7 @@ gems:
 prose:
   media: 'images/uploads'
   rooturl: '_posts'
-  siteurl: http://codefor.hamburg
+  siteurl: http://codeforhamburg.org
   ignore:
     - index.md
     - _config.yml
@@ -36,14 +36,14 @@ prose:
         field:
           element: "multiselect"
           label: "Add Tags"
-          options: "http://codeforsanfrancisco.org/api/tags.json?callback=tagsCallback"
+          options: "http://codeforhamburg.org/api/tags.json?callback=tagsCallback"
           alterable: true
           placeholder: "Choose Tags"
       - name: "author"
         field:
           element: "select"
           label: "Author"
-          options: "http://codeforsanfrancisco.org/api/authors.json?callback=authorsCallback"
+          options: "http://codeforhamburg.org/api/authors.json?callback=authorsCallback"
     _posts/projects:
       - name: "layout"
         field:
