@@ -6,14 +6,14 @@ function slugify(text) {
   return text;
 }
 
-var cfapi_url = 'http://codeforamerica.org/api/organizations/Code-for-San-Francisco/projects';
+var cfapi_url = 'http://codeforamerica.org/api/organizations/Code-for-Hamburg/projects';
 
 // Go get projects! Then show them off.
 $.getJSON(cfapi_url, showProjects);
 
 function showProjects(response){
   projects = response.objects;
-  var featuredIndex = []; 
+  var featuredIndex = [];
   // loop through our project data
   $.each(projects, function(i, project) {
     //if (project['tags'].indexOf("featured") > -1) {
