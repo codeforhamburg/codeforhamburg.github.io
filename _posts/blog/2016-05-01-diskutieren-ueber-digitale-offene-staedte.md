@@ -1,11 +1,10 @@
 ---
 layout: blog
-tags: "Open Data"
+tags: 
 author: timo_lundelius
 published: true
 title: "Diskutieren über digitale & offene Städte"
 ---
-## Das Code for Hamburg Lab geht 2 Mal diskutieren - Mo 02.05.
 
 Gleich zwei Termine finden am Mo, 02.05. statt bei denen Mitglieder unseres Labs mit diskutieren:
 
