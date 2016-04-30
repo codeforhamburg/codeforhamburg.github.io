@@ -1,8 +1,8 @@
 ---
 layout: blog
-tags: ""
-author: jason_lally
-published: false
+tags: "Open Data"
+author: timo_lundelius
+published: true
 title: "Diskutieren über digitale & offene Städte"
 ---
 ## Das Code for Hamburg Lab geht 2 Mal diskutieren - Mo 02.05.
