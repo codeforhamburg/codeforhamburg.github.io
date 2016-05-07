@@ -10,7 +10,7 @@
               {{ post.date | date: "%B %d, %Y" }}
             </time>
             <h2><a href="{{site.baseurl}}{{post.url}}">{{post.title}}</a> <small>By {{site.data.authors[post.author].name}}</small></h2>
-            <p class="text-muted">{{ post.excerpt | remove: '<p>' | remove: '</p>' }} <a href="{{site.baseurl}}{{post.url}}" alt="Click to read more of this blog post">Read more... </a></p>
+            <p class="text-muted">{{ post.excerpt | remove: '<p>' | remove: '</p>' }} <a href="{{site.baseurl}}{{post.url}}" alt="Klick um mehr von diesem Blog Post zu lesen">Mehr...</a></p>
           </div>
         </div>
         {% endif %} 
