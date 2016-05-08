@@ -64,11 +64,22 @@ a {
   background: #CF1B41;
 }
 
+.featured-nav-link-drl {
+  background: #03A678;
+}
+
 .navbar-default .navbar-nav>li.featured-nav-link>a {
   color: #fff;
   border-left: #cfcfcf 2px solid;
   border-right: #cfcfcf 2px solid;
 }
+
+.navbar-default .navbar-nav>li.featured-nav-link-drl>a {
+  color: #fff;
+  border-left: #cfcfcf 2px solid;
+  border-right: #cfcfcf 2px solid;
+}
+
 
 /* cfcfcf old color or #cf1b41*/
 
