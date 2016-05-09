@@ -12,12 +12,22 @@
  
 
 
+Grundsätzlich alles 'open-by-default', mit wenigen sinnvollen Ausnahmen. Die Seite ist ein sogeannter Fork (also 'Kopie') der Codeforsanfrancisco.org Seite. 
+
+
+Darüber hinaus haben wir bewusst diverse Tools und Hilfen eingebaut die Seite so barrierefrei wie möglich zu gestalten und Du kannst Veränderungen vornehmen auch ohne die Versionsverwaltungssprache GIT zu können. 
+
 - Glaubensbekenntnis: 
 
     <p>Für uns ist das Code for Hamburg Lab ein Ort des Wissensdurstes, der Ideen, Naivität, des Optimismus und der "herumspielerei". Es darf herum experimentiert werden und "scheitern" kann es per default-Definition nicht geben.</p>
 
 
 EN / DE
+
+
+<body>
+  Redirecting to <a href="http://www.meetup.com/Code-for-San-Francisco-Civic-Hack-Night/events/228463980/">CodeAcross Event page</a>...
+</body>
 
 
 - Gäste und Freunde des CodeforHamburg Labs
@@ -39,6 +49,7 @@ EN / DE
 - Hotz / Universität Hamburg
 - Barbara Fischer (Wikimedia DE - CodingDaVinci)
 - Helene Hahn (OKFN DE - CodingDaVinci)
+- Juliane 
 
 --> Gästeliste in 
 
@@ -50,4 +61,5 @@ DB / OpenData (?)
 
 - Footer: Logo CfHH, OK
 
+- Farbe ändern 
 
