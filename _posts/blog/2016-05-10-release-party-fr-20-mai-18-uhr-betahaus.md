@@ -5,8 +5,7 @@ published: true
 title: "Release Party - Fr, 20. Mai - 18 Uhr | Betahaus"
 tags: "Release-Party"
 ---
-## Moin liebe Freunde,
-
+Moin liebe Freunde, 
 Gäste, Unterstützer & Mitglieder des Code for Hamburg Labs! 
 
 Wir möchten Euch dabei haben, wenn wir unser Leuchtturmprojekt Wir-Bauen-Hamburg.de nach viel schweißtreibender Arbeit, rauchenden Köpfen und durchwachten Nächten endlich der (Hamburger) Weltöffentlichkeit präsentieren! 
