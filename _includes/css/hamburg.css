@@ -111,7 +111,7 @@ a {
 
 /* Carousel base class */
 .carousel {
-  height: 425px;
+/*  height: 425px; */
   background-image: url({{site.baseurl}}/images/hamburg-binnenalster.jpg);
   background-size: cover;
   background-position: center bottom;
