@@ -847,3 +847,33 @@ body #mc_embed_signup .asterisk {
   color: #a94442;
   font-size: 200%;
 }
+
+
+
+
+/* fitting brand logo
+-------------------------------------------------- */
+.navbar-brand img {
+    margin-right: 15px;
+}
+
+/* fix accessibility warningns */
+
+
+.cc_container .cc_btn, .cc_container .cc_btn:visited {
+    background-color: #fff!important;
+}
+.cc_container a:hover, .cc_container a:active {
+    color:#31a8f0!important;
+}
+
+.cc_container a, .cc_container a:visited {
+    color:#57b4f8!important;
+}
+
+.cc_container .cc_btn {
+    color: #000!important;
+}
+.cc_container a.cc_logo {
+    color:  #fff!important;
+}

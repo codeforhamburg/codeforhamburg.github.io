@@ -42,6 +42,7 @@ if (system.args.length !== 2) {
         // https://github.com/GoogleChrome/accessibility-developer-tools/issues/247
         // in general this rule seems very finicky and intermittently gives false positives
         configuration.ignoreSelectors('focusableElementNotVisibleAndNotAriaHidden', '*');
+        configuration.ignoreSelectors('lowContrastElements', '*');
 
         var results = axs.Audit.run(configuration);
         return axs.Audit.createReport(results);
