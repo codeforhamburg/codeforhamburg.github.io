@@ -847,3 +847,12 @@ body #mc_embed_signup .asterisk {
   color: #a94442;
   font-size: 200%;
 }
+
+
+
+
+/* fitting brand logo
+-------------------------------------------------- */
+.navbar-brand img {
+    margin-right: 15px;
+}
