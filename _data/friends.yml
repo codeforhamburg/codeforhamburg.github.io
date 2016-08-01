@@ -1,43 +1,20 @@
 - name: Timo Lundelius
-  bio: "asdsadsadsadsad asdsadsadsad  asdsadsadsadsadas"
+  bio: "Timo ist seit 2014 Code for Hamburg Lab Lead sowie seit 2015 Gründer der digitalen Stadtentwicklungs- und Beteiligungsplattform We-Build.City."
   gravatar: a40fb3f54960c01f7aba20a4ba8899ef
   img: /images/CodeForHamburg-logo.png
-  title: Titel des OpenDataSpezi
-  url:
+  title: Lab Lead | Gründer We-Build.City
+  url: We-Build.City
+  url2: Wir-bauen-Hamburg.de
   logo:
   tags: 
-    - Tag 1 Text
+    - "#asdsadsa"
     - Tag 2 Text
     - Tag 3 Text
 
 - name: Solveig Schröder
   bio: "Orga for Code for Hamburg, Communication & Projekt Management, Works @ We-Build.City"
   gravatar: a40fb3f54960c01f7aba20a4ba8899ef
-  img: 
-  title: OpenDataSpezi
-  url:
-  logo:
-  tags: 
-    - open data
-    - asdsadsadsadsadas
-    - asdsa2123123
-
-- name: Timo Lundelius
-  bio: "asdsadsadsadsad asdsadsadsad  asdsadsadsadsadas"
-  gravatar: a40fb3f54960c01f7aba20a4ba8899ef
-  img: 
-  title: OpenDataSpezi
-  url:
-  logo:
-  tags: 
-    - open data
-    - asdsadsadsadsadas
-    - asdsa2123123
-
-- name: Timo Lundelius
-  bio: "asdsadsadsadsad asdsadsadsad  asdsadsadsadsadas"
-  gravatar: a40fb3f54960c01f7aba20a4ba8899ef
-  img: 
+  img: /images/CodeForHamburg-logo.png
   title: OpenDataSpezi
   url:
   logo:
@@ -58,38 +35,86 @@
     - Tag 2 Text
     - Tag 3 Text
 
-- name: Solveig Schröder
-  bio: "Orga for Code for Hamburg, Communication & Projekt Management, Works @ We-Build.City"
+- name: Timo Lundelius
+  bio: "asdsadsadsadsad asdsadsadsad  asdsadsadsadsadas"
   gravatar: a40fb3f54960c01f7aba20a4ba8899ef
-  img: 
-  title: OpenDataSpezi
+  img: /images/CodeForHamburg-logo.png
+  title: Titel des OpenDataSpezi
   url:
   logo:
   tags: 
-    - open data
-    - asdsadsadsadsadas
-    - asdsa2123123
+    - Tag 1 Text
+    - Tag 2 Text
+    - Tag 3 Text
 
 - name: Timo Lundelius
   bio: "asdsadsadsadsad asdsadsadsad  asdsadsadsadsadas"
   gravatar: a40fb3f54960c01f7aba20a4ba8899ef
-  img: 
-  title: OpenDataSpezi
+  img: /images/CodeForHamburg-logo.png
+  title: Titel des OpenDataSpezi
   url:
   logo:
   tags: 
-    - open data
-    - asdsadsadsadsadas
-    - asdsa2123123
+    - Tag 1 Text
+    - Tag 2 Text
+    - Tag 3 Text
 
 - name: Timo Lundelius
   bio: "asdsadsadsadsad asdsadsadsad  asdsadsadsadsadas"
   gravatar: a40fb3f54960c01f7aba20a4ba8899ef
-  img: 
-  title: OpenDataSpezi
+  img: /images/CodeForHamburg-logo.png
+  title: Titel des OpenDataSpezi
   url:
   logo:
   tags: 
-    - open data
-    - asdsadsadsadsadas
-    - asdsa2123123
+    - Tag 1 Text
+    - Tag 2 Text
+    - Tag 3 Text
+
+- name: Timo Lundelius
+  bio: "asdsadsadsadsad asdsadsadsad  asdsadsadsadsadas"
+  gravatar: a40fb3f54960c01f7aba20a4ba8899ef
+  img: /images/CodeForHamburg-logo.png
+  title: Titel des OpenDataSpezi
+  url:
+  logo:
+  tags: 
+    - Tag 1 Text
+    - Tag 2 Text
+    - Tag 3 Text
+
+- name: Timo Lundelius
+  bio: "asdsadsadsadsad asdsadsadsad  asdsadsadsadsadas"
+  gravatar: a40fb3f54960c01f7aba20a4ba8899ef
+  img: /images/CodeForHamburg-logo.png
+  title: Titel des OpenDataSpezi
+  url:
+  logo:
+  tags: 
+    - Tag 1 Text
+    - Tag 2 Text
+    - Tag 3 Text
+
+- name: Timo Lundelius
+  bio: "asdsadsadsadsad asdsadsadsad  asdsadsadsadsadas"
+  gravatar: a40fb3f54960c01f7aba20a4ba8899ef
+  img: /images/CodeForHamburg-logo.png
+  title: Titel des OpenDataSpezi
+  url:
+  logo:
+  tags: 
+    - Tag 1 Text
+    - Tag 2 Text
+    - Tag 3 Text
+
+- name: Timo Lundelius
+  bio: "asdsadsadsadsad asdsadsadsad  asdsadsadsadsadas"
+  gravatar: a40fb3f54960c01f7aba20a4ba8899ef
+  img: /images/CodeForHamburg-logo.png
+  title: Titel des OpenDataSpezi
+  url:
+  logo:
+  tags: 
+    - Tag 1 Text
+    - Tag 2 Text
+    - Tag 3 Text

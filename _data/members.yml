@@ -1,0 +1,73 @@
+- name: Alina Feustel
+  bio: "Alina ist Lab Lead von Code for Hamburg und setzt sich als Projektmanagerin für die Kommunikation und Organisation von neuen Projekten ein."
+  gravatar: a40fb3f54960c01f7aba20a4ba8899ef
+  img: /images/CodeForHamburg-logo.png
+  title: Lab Lead | Studentin Leuphana Digital Media
+  url: 
+  url2: 
+  twitter: AlinaFeustel
+  email: alina@codeforhamburg.org
+  logo:
+  tags:
+    - Projektmanagerin
+    - "Lab Lead"
+
+- name: Philipp Geisler
+  bio: 
+  gravatar:
+  img: /images/CodeForHamburg-logo.png
+  title: Lab Lead | Coding Da Vinci Nord
+  url: codeforhamburg.org
+  url2: codingdavinci.de/nord
+  twitter: zelpst
+  email: philipp@codeforhamburg.org
+  logo:
+  tags: 
+    - "Coding Da Vinci Nord"
+    - "Kulturhackathon"
+    - "Lab Lead"
+
+- name: Solveig Schröder
+  bio: 
+  gravatar:
+  img: /images/CodeForHamburg-logo.png
+  title: Lab Lead | Mitarbeiterin bei Gründer We-Build.City
+  url: We-Build.City
+  url2: Wir-bauen-Hamburg.de
+  twitter: SolveigSchroder
+  email: timo@codeforhamburg.org
+  logo:
+  tags: 
+    - "Umwelt Kommunikation"
+    - "Digitale Bürgerbeteiligung"
+    - "Lab Lead"
+
+- name: Timo Lundelius
+  bio: "Timo ist seit 2014 Code for Hamburg Lab Lead sowie Gründer der digitalen Stadtentwicklungs- und Beteiligungsplattform We-Build.City."
+  gravatar: a40fb3f54960c01f7aba20a4ba8899ef
+  img: /images/CodeForHamburg-logo.png
+  title: Lab Lead | Gründer We-Build.City
+  url: We-Build.City
+  url2: Wir-bauen-Hamburg.de
+  twitter: timo_lundelius
+  email: timo@codeforhamburg.org
+  logo:
+  tags: 
+    - "Open Data"
+    - "Open Government"
+    - "Lab Lead"
+
+- name: Vera Schmitt
+  bio: "Vera ist Datenanalystin und im Vorstand von Correlaid.org"
+  gravatar: 
+  img: /images/CodeForHamburg-logo.png
+  title: Lab Lead | Correlaid 
+  url: correlaid.org
+  url2: 
+  twitter: schmitt_vera
+  email: timo@codeforhamburg.org
+  logo:
+  tags: 
+    - "Datenanalyse"
+    - "Open Data"
+    - "Lab Lead"

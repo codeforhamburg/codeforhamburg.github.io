@@ -2,21 +2,27 @@
 layout: default
 title: Freunde & Gäste des Labs
 ---
-<div class="row" id="maincontent" tabindex="-1">
+<div class="row friends" id="maincontent" tabindex="-1">
 
-    {% for friend in site.data.friends %}
+  {% for friend in site.data.friends %}
 
-    <div class="col-sm-3 friend">
-      <h1>{{ friend.name }} </h1>
-      <p>{{ friend.bio }}</p>
-      <img src="{{site.baseurl}}{{friend.img }}">
+    <div class="col-sm-4 friend card">
+      <img src="{{site.baseurl}}{{friend.img }}" class="img-responsive">
+      <h3>{{ friend.name }} </h3>
       <p>{{ friend.title }}</p>
-      <p>{{ friend.url }}</p>
+      <p>{{ friend.bio }}</p>
+      <p>
+        <a href="http://{{ friend.url }}" target="_blank">{{ friend.url }}</a>
+        <br>
+        <a href="http://{{ friend.url2 }}" target="_blank">{{ friend.url2 }}</a>
+      </p>
       <p>{{ friend.logo }}</p>
 
       {% for tag in friend.tags %}
       
-      <p>{{ tag }}</p>
+      <div class="tag">
+        {{ tag }}
+      </div>
       
       {% endfor %}
     
@@ -24,7 +30,7 @@ title: Freunde & Gäste des Labs
   {% endfor %}
 
 
-  </div>
+</div>
 
 
 </div>
