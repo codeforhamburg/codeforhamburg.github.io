@@ -1,0 +1,30 @@
+---
+layout: default
+title: Freunde & Gäste des Labs
+---
+<div class="row" id="maincontent" tabindex="-1">
+
+    {% for friend in site.data.friends %}
+
+    <div class="col-sm-3 friend">
+      <h1>{{ friend.name }} </h1>
+      <p>{{ friend.bio }}</p>
+      <img src="{{site.baseurl}}{{friend.img }}">
+      <p>{{ friend.title }}</p>
+      <p>{{ friend.url }}</p>
+      <p>{{ friend.logo }}</p>
+
+      {% for tag in friend.tags %}
+      
+      <p>{{ tag }}</p>
+      
+      {% endfor %}
+    
+  </div>
+  {% endfor %}
+
+
+  </div>
+
+
+</div>

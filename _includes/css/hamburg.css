@@ -877,3 +877,11 @@ body #mc_embed_signup .asterisk {
 .cc_container a.cc_logo {
     color:  #fff!important;
 }
+
+
+/*
+freunde
+*/
+.friend:nth-of-type(4n+1) {
+  clear:left;
+}
