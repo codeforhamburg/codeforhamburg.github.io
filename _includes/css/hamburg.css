@@ -883,20 +883,44 @@ body #mc_embed_signup .asterisk {
 freunde
 */
 
-.friends {
-  margin-top: 1.5em;
+@media (min-width: 992px) {
+  .friend-wrapper:nth-of-type(4n+2) {
+  clear:left;
+  }
 }
 
-.friend:nth-of-type(3n+1) {
+@media (min-width: 768px) and (max-width: 991px) {
+  .friend-wrapper:nth-of-type(3n+2) {
   clear:left;
+  }
 }
 
 .card {
   background-color: #eee;
-  margin: 0.5em;
+  margin-bottom: 1.5em;
+  padding: 0.5em;
 }
 
-} 
+.card p {
+  font-size: 14px;
+  line-height: 1.4;
+}
+.card-img {
+  text-align: center;
+}
+
+.card-img img {
+  max-width: 100%;
+  height: auto;
+}
+
+.card a {
+  color: #669ed6;
+}
+
+ 
 .tag {
-  background-color: red;
+  background-color: #669ed6;
+  margin-right: 0.35em;
+  display: inline-block;
 }

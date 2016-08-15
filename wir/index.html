@@ -4,7 +4,7 @@ title: Code for Hamburg | Wir
 ---
 <div class="row" id="maincontent" tabindex="-1">
 
-  <div id="about">
+  <div class="col-sm-12" id="about">
     <h1>Über das Code for Hamburg Lab</h1>
     <p>Code for Hamburg ist eine Gruppe von Leuten welche offene Software auf der Grundlage von eigenen oder offenen Daten baut um der Allgemeinheit freie, kostenlose und innovative Dienste und Anwendungen bereitzustellen.</p>  
 
@@ -15,43 +15,45 @@ title: Code for Hamburg | Wir
 
 
   <div>
-  <h1> Das Team von Code for Hamburg</h1>
-  <p> Das hier dargestellte "Team" vom Code for Hamburg Lab ist immer nur eine Momentaufnahme - und doch nicht weniger falsch! Wir finden uns zu Projekten zusammen und experimentieren ehrenamtlich zusammen, wenn es uns die Zeit erlaubt.</p>
+    <div class="col-sm-12">
+      <h1> Das Team von Code for Hamburg</h1>
+      <p> Das hier dargestellte "Team" vom Code for Hamburg Lab ist immer nur eine Momentaufnahme - und doch nicht weniger falsch! Wir finden uns zu Projekten zusammen und experimentieren ehrenamtlich zusammen, wenn es uns die Zeit erlaubt.</p>
+    </div>
 
-  {% for member in site.data.members %}
+    {% for member in site.data.members %}
 
-    <div class="col-sm-3 friend card">
-      <img src="{{site.baseurl}}{{member.img }}" class="img-responsive">
-      <h3>{{ member.name }} </h3>
-      <p>{{ member.title }}</p>
-      <p>
-        {{ member.bio }}
-      </p>
-      <p>
-
-          <a href="mailto:{{ member.email }}">{{ member.email }}</a>
-
-          <br>
-
-          <a href="http://twitter.com/{{ member.twitter }}" target="_blank">{{ member.twitter }}</a>
-      </p>
-      <p>
-        <a href="http://{{ member.url }}" target="_blank">{{ member.url }}</a>
-        <br>
-        <a href="http://{{ member.url2 }}" target="_blank">{{ member.url2 }}</a>
-      </p>
-      <p>{{ member.logo }}</p>
-      
-      {% for tag in member.tags %}
-      
-      <div class="tag">
-        {{ tag }}
+      <div class="col-sm-4 col-md-3 friend-wrapper">
+        <div class="friend card">
+          <div class="card-img"> 
+            <img src="{{site.baseurl}}{{member.img }}">
+          </div>
+          <h3>{{ member.name }} </h3>
+          <p>{{ member.title }}</p>
+          <p>
+            {{ member.bio }}
+          </p>
+          <p>  
+              <a href="mailto:{{ member.email }}">
+                <i class="fa fa-envelope-o" aria-hidden="true"></i> {{ member.email }}</a>
+          
+              <br>
+              
+              <a href="http://twitter.com/{{ member.twitter }}" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i> {{ member.twitter }}</a>
+          </p>
+          
+          <p>
+          {% for url in member.urls %}
+            <a href="{{ url }}" target="_blank"><i class="fa fa-link" aria-hidden="true"></i> {{ url }}</a>
+            <br>
+          {% endfor %}
+            
+          </p>
+          <p>{{ member.logo }}</p>
+          
+          {% for tag in member.tags %}<div class="tag label label-primary">{{ tag }}</div>{% endfor %}
+          </div>
       </div>
-      
-      {% endfor %}
-    
-  </div>
-  {% endfor %}
+    {% endfor %}
 
 
   </div>

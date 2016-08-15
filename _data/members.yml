@@ -1,10 +1,10 @@
 - name: Alina Feustel
   bio: "Alina ist Lab Lead von Code for Hamburg und setzt sich als Projektmanagerin für die Kommunikation und Organisation von neuen Projekten ein."
   gravatar: a40fb3f54960c01f7aba20a4ba8899ef
-  img: /images/CodeForHamburg-logo.png
+  img: /images/members/alina-feustel.png
   title: Lab Lead | Studentin Leuphana Digital Media
-  url: 
-  url2: 
+  urls: 
+    - "http://codeforhamburg.org"
   twitter: AlinaFeustel
   email: alina@codeforhamburg.org
   logo:
@@ -15,10 +15,11 @@
 - name: Philipp Geisler
   bio: 
   gravatar:
-  img: /images/CodeForHamburg-logo.png
+  img: /images/members/philipp-geisler.png
   title: Lab Lead | Coding Da Vinci Nord
-  url: codeforhamburg.org
-  url2: codingdavinci.de/nord
+  urls: 
+    - "http://codeforhamburg.org"
+    - "http://codingdavinci.de/nord"
   twitter: zelpst
   email: philipp@codeforhamburg.org
   logo:
@@ -30,10 +31,11 @@
 - name: Solveig Schröder
   bio: 
   gravatar:
-  img: /images/CodeForHamburg-logo.png
+  img: /images/members/solveig-schroeder.png
   title: Lab Lead | Mitarbeiterin bei Gründer We-Build.City
-  url: We-Build.City
-  url2: Wir-bauen-Hamburg.de
+  urls: 
+    - "http://codeforhamburg.org"
+    - "http://codingdavinci.de/nord"
   twitter: SolveigSchroder
   email: timo@codeforhamburg.org
   logo:
@@ -45,10 +47,11 @@
 - name: Timo Lundelius
   bio: "Timo ist seit 2014 Code for Hamburg Lab Lead sowie Gründer der digitalen Stadtentwicklungs- und Beteiligungsplattform We-Build.City."
   gravatar: a40fb3f54960c01f7aba20a4ba8899ef
-  img: /images/CodeForHamburg-logo.png
+  img: /images/members/timo-lundelius.png
   title: Lab Lead | Gründer We-Build.City
-  url: We-Build.City
-  url2: Wir-bauen-Hamburg.de
+  urls: 
+    - "http://codeforhamburg.org"
+    - "http://codingdavinci.de/nord"
   twitter: timo_lundelius
   email: timo@codeforhamburg.org
   logo:
@@ -60,10 +63,11 @@
 - name: Vera Schmitt
   bio: "Vera ist Datenanalystin und im Vorstand von Correlaid.org"
   gravatar: 
-  img: /images/CodeForHamburg-logo.png
+  img: /images/members/vera-schmitt.png
   title: Lab Lead | Correlaid 
-  url: correlaid.org
-  url2: 
+  urls: 
+    - "http://codeforhamburg.org"
+    - "http://codingdavinci.de/nord"
   twitter: schmitt_vera
   email: timo@codeforhamburg.org
   logo:
@@ -71,3 +75,20 @@
     - "Datenanalyse"
     - "Open Data"
     - "Lab Lead"
+
+- name: Hannes Kröger
+  bio: ""
+  gravatar: 
+  img: /images/members/hannes-kroeger.png
+  title: Experte für Geo-Gedöns und dieses "GIS"
+  urls: 
+    - "http://hannes.enjoys.it/blog/"
+  twitter: cartocalypse
+  email: hannes äht enjoys.it
+  logo:
+  tags: 
+    - "GIS"
+    - "QGIS"
+    - "Geo-Kram"
+    - "Open Data"
+    - "Farben-Nerd"
