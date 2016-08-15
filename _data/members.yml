@@ -51,23 +51,23 @@
   title: Lab Lead | Gründer We-Build.City
   urls: 
     - "http://codeforhamburg.org"
-    - "http://codingdavinci.de/nord"
+    - "http://we-build.city"
   twitter: timo_lundelius
   email: timo@codeforhamburg.org
   logo:
   tags: 
     - "Open Data"
     - "Open Government"
+    - "Digitale Bürgerbeteiligung"
     - "Lab Lead"
 
 - name: Vera Schmitt
-  bio: "Vera ist Datenanalystin und im Vorstand von Correlaid.org"
+  bio: "Vera ist Datenanalystin und im Vorstand von Correlaid.org - einem weltweit tätigen Verein zur Datenalyse"
   gravatar: 
   img: /images/members/vera-schmitt.png
   title: Lab Lead | Correlaid 
   urls: 
-    - "http://codeforhamburg.org"
-    - "http://codingdavinci.de/nord"
+    - "http://correlaid.org/"
   twitter: schmitt_vera
   email: timo@codeforhamburg.org
   logo:
