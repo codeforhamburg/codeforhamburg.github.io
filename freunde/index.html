@@ -1,36 +1,53 @@
 ---
 layout: default
-title: Freunde & Gäste des Labs
+title: Code for Hamburg | Freunde &amp; G&auml;ste
 ---
-<div class="row friends" id="maincontent" tabindex="-1">
+<div class="row" id="maincontent" tabindex="-1">
 
-  {% for friend in site.data.friends %}
+  <div>
+    <div class="col-sm-12">
+      <h1> Freunde &amp; G&auml;ste des Labs</h1>
+      <p>Hier haben wir ein paar G&auml;ste & Freunde des Labs die uns besucht haben oder mit uns befreundet sind.</p>
+    </div>
 
-    <div class="col-sm-4 friend card">
-      <img src="{{site.baseurl}}{{friend.img }}" class="img-responsive">
-      <h3>{{ friend.name }} </h3>
-      <p>{{ friend.title }}</p>
-      <p>{{ friend.bio }}</p>
-      <p>
-        <a href="http://{{ friend.url }}" target="_blank">{{ friend.url }}</a>
-        <br>
-        <a href="http://{{ friend.url2 }}" target="_blank">{{ friend.url2 }}</a>
-      </p>
-      <p>{{ friend.logo }}</p>
+    {% for friend in site.data.friends %}
 
-      {% for tag in friend.tags %}
-      
-      <div class="tag">
-        {{ tag }}
+      <div class="col-sm-4 col-md-3 friend-wrapper">
+        <div class="friend card">
+          <div class="card-img"> 
+            <img src="{{site.baseurl}}{{friend.img }}">
+          </div>
+          <h3>{{ friend.name }} </h3>
+          <p>{{ friend.title }}</p>
+          <p>
+            {{ friend.bio }}
+          </p>
+          <p>  
+              <a href="mailto:{{ friend.email }}">
+                <i class="fa fa-envelope-o" aria-hidden="true"></i> {{ friend.email }}</a>
+          
+              <br>
+              
+              <a href="http://twitter.com/{{ friend.twitter }}" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i> {{ friend.twitter }}</a>
+          </p>
+          
+          <p>
+          {% for url in friend.urls %}
+            <a href="{{ url }}" target="_blank"><i class="fa fa-link" aria-hidden="true"></i> {{ url }}</a>
+            <br>
+          {% endfor %}
+            
+          </p>
+          <p>{{ friend.logo }}</p>
+          
+          {% for tag in friend.tags %}<div class="tag label label-primary">{{ tag }}</div>{% endfor %}
+          </div>
       </div>
-      
-      {% endfor %}
-    
-  </div>
-  {% endfor %}
+    {% endfor %}
 
-
+    <div class="col-sm-12">
+      <h3>Hinweis:</h3>
+      <p>Diese Liste befindet sich im Aufbau und wird nie vollständig sein - können. Jeder der fehlt, bitte/gerne eintragen unter: <a href="http://https://github.com/codeforhamburg/codeforhamburg.github.io">Github-Repo</a></p>
+    </div>
 </div>
-
-
 </div>

@@ -1,120 +1,43 @@
-- name: Timo Lundelius
-  bio: "Timo ist seit 2014 Code for Hamburg Lab Lead sowie seit 2015 Gründer der digitalen Stadtentwicklungs- und Beteiligungsplattform We-Build.City."
-  gravatar: a40fb3f54960c01f7aba20a4ba8899ef
-  img: /images/CodeForHamburg-logo.png
-  title: Lab Lead | Gründer We-Build.City
-  url: We-Build.City
-  url2: Wir-bauen-Hamburg.de
+- name: Christian Heise
+  bio: "Christian ist Manager beim Google DNI Innovation Fund, Autor, Dozent im Studiengang Digitale Medien an der Leuphana Universität und promoviere zum Thema Open Science am Centre for Digital Cultures (CDC). Als ehrenamtliches Vorstandsmitglied der Open Knowledge Foundation Deutschland e.V. und beim Förderverein Freie Netzwerke e.V. setzte ich mich für die Öffnung von Wissen und IT-Infrastrukturen ein."
+  img: /images/friends/christian-heise.png
+  title: Vorstand Open Knowledge Foundation e.V.
+  urls: 
+    - "http://christianheise.de"
+    - "http://okfn.de"
+  twitter: christianheise
+  email: christian.heise@okfn.de
   logo:
-  tags: 
-    - "#asdsadsa"
-    - Tag 2 Text
-    - Tag 3 Text
+  tags:
+    - Open Data
+    - Freifunkstattangst.de
+    - okfn.de
 
-- name: Solveig Schröder
-  bio: "Orga for Code for Hamburg, Communication & Projekt Management, Works @ We-Build.City"
-  gravatar: a40fb3f54960c01f7aba20a4ba8899ef
-  img: /images/CodeForHamburg-logo.png
-  title: OpenDataSpezi
-  url:
+- name: Christian Horn
+  bio: "Christian ist Leiter der Geschäfts- und Koordinierungsstelle GovData und seit Beginn des Labs Freund und Unterstützer!"
+  img: /images/friends/christian-horn.png
+  title: Leiter der Geschäfts- und Koordinierungsstelle GovData 
+  urls: 
+    - "http://govdata.de"
+  twitter: christianheise
+  email: christian.horn@fb.hamburg.de
   logo:
-  tags: 
-    - open data
-    - asdsadsadsadsadas
-    - asdsa2123123
+  tags:
+    - Open Data
+    - Verwaltung
+    - govdata.de
 
-- name: Timo Lundelius
-  bio: "asdsadsadsadsad asdsadsadsad  asdsadsadsadsadas"
-  gravatar: a40fb3f54960c01f7aba20a4ba8899ef
-  img: /images/CodeForHamburg-logo.png
-  title: Titel des OpenDataSpezi
-  url:
+- name: Kirsten Wohlfahrt
+  bio: "Beruflich seit knapp fünfzehn Jahren im Bereich der Modernisierung von Staat und Verwaltung unterwegs. Privat Kulturwandel-Enthusiastin."
+  img: /images/friends/Kirsten-Wohlfahrt_web.jpg
+  title: Vorstand | Government 2.0 Netzwerk 
+  urls: 
+    - "http://www.gov20.de/"
+  twitter: FrauKW
+  email: kirsten.wohlfahrt@gov20.de
   logo:
-  tags: 
-    - Tag 1 Text
-    - Tag 2 Text
-    - Tag 3 Text
-
-- name: Timo Lundelius
-  bio: "asdsadsadsadsad asdsadsadsad  asdsadsadsadsadas"
-  gravatar: a40fb3f54960c01f7aba20a4ba8899ef
-  img: /images/CodeForHamburg-logo.png
-  title: Titel des OpenDataSpezi
-  url:
-  logo:
-  tags: 
-    - Tag 1 Text
-    - Tag 2 Text
-    - Tag 3 Text
-
-- name: Timo Lundelius
-  bio: "asdsadsadsadsad asdsadsadsad  asdsadsadsadsadas"
-  gravatar: a40fb3f54960c01f7aba20a4ba8899ef
-  img: /images/CodeForHamburg-logo.png
-  title: Titel des OpenDataSpezi
-  url:
-  logo:
-  tags: 
-    - Tag 1 Text
-    - Tag 2 Text
-    - Tag 3 Text
-
-- name: Timo Lundelius
-  bio: "asdsadsadsadsad asdsadsadsad  asdsadsadsadsadas"
-  gravatar: a40fb3f54960c01f7aba20a4ba8899ef
-  img: /images/CodeForHamburg-logo.png
-  title: Titel des OpenDataSpezi
-  url:
-  logo:
-  tags: 
-    - Tag 1 Text
-    - Tag 2 Text
-    - Tag 3 Text
-
-- name: Timo Lundelius
-  bio: "asdsadsadsadsad asdsadsadsad  asdsadsadsadsadas"
-  gravatar: a40fb3f54960c01f7aba20a4ba8899ef
-  img: /images/CodeForHamburg-logo.png
-  title: Titel des OpenDataSpezi
-  url:
-  logo:
-  tags: 
-    - Tag 1 Text
-    - Tag 2 Text
-    - Tag 3 Text
-
-- name: Timo Lundelius
-  bio: "asdsadsadsadsad asdsadsadsad  asdsadsadsadsadas"
-  gravatar: a40fb3f54960c01f7aba20a4ba8899ef
-  img: /images/CodeForHamburg-logo.png
-  title: Titel des OpenDataSpezi
-  url:
-  logo:
-  tags: 
-    - Tag 1 Text
-    - Tag 2 Text
-    - Tag 3 Text
-
-- name: Timo Lundelius
-  bio: "asdsadsadsadsad asdsadsadsad  asdsadsadsadsadas"
-  gravatar: a40fb3f54960c01f7aba20a4ba8899ef
-  img: /images/CodeForHamburg-logo.png
-  title: Titel des OpenDataSpezi
-  url:
-  logo:
-  tags: 
-    - Tag 1 Text
-    - Tag 2 Text
-    - Tag 3 Text
-
-- name: Timo Lundelius
-  bio: "asdsadsadsadsad asdsadsadsad  asdsadsadsadsadas"
-  gravatar: a40fb3f54960c01f7aba20a4ba8899ef
-  img: /images/CodeForHamburg-logo.png
-  title: Titel des OpenDataSpezi
-  url:
-  logo:
-  tags: 
-    - Tag 1 Text
-    - Tag 2 Text
-    - Tag 3 Text
+  tags:
+    - Open Data
+    - Kulturwandel 
+    - Verwaltung
+    - Stammtisch Open Government HH
