@@ -1,7 +1,7 @@
 - name: Christian Heise
-  bio: "Christian ist Manager beim Google DNI Innovation Fund, Autor, Dozent im Studiengang Digitale Medien an der Leuphana Universität und promoviere zum Thema Open Science am Centre for Digital Cultures (CDC). Als ehrenamtliches Vorstandsmitglied der Open Knowledge Foundation Deutschland e.V. und beim Förderverein Freie Netzwerke e.V. setzte ich mich für die Öffnung von Wissen und IT-Infrastrukturen ein."
+  bio: "Christian hat seeeehr viele Hüte - meistens auch viele gleichzeitig :-) Wir kennen, lieben und schätzen Ihn hauptsächlich als unermüdlichen ehrenamtlichen offene Daten, offenes Wissen und offene Netze Lobbyist. Dazu arbeitet Christian als Manager für den Google DNI Innovation Fund und ist Autor, Dozent an der Leuphana Uni und promoviere zu Open Science."
   img: /images/friends/christian-heise.png
-  title: Vorstand Open Knowledge Foundation e.V.
+  title: Ehrenamtliches Vorstandsmitglied Open Knowledge Foundation e.V.
   urls: 
     - "http://christianheise.de"
     - "http://okfn.de"
@@ -14,9 +14,9 @@
     - okfn.de
 
 - name: Christian Horn
-  bio: "Christian ist Leiter der Geschäfts- und Koordinierungsstelle GovData und seit Beginn des Labs Freund und Unterstützer!"
+  bio: "Christian ist seit Beginn des Labs als Unterstützer und Freund immer wieder dabei! Als Beamter der Freien und Hansestadt und Open Data Enthusiast bekommen wir im Lab von ihm interessante Einblicke in die Arbeit und Problemstellungen der öffentlichen Verwaltung."
   img: /images/friends/christian-horn.png
-  title: Leiter der Geschäfts- und Koordinierungsstelle GovData 
+  title: Leiter der Geschäfts- und Koordinierungsstelle GovData
   urls: 
     - "http://govdata.de"
   twitter: christianheise
@@ -28,8 +28,8 @@
     - govdata.de
 
 - name: Kirsten Wohlfahrt
-  bio: "Beruflich seit knapp fünfzehn Jahren im Bereich der Modernisierung von Staat und Verwaltung unterwegs. Privat Kulturwandel-Enthusiastin."
-  img: /images/friends/Kirsten-Wohlfahrt_web.jpg
+  bio: "Kirsten = Kulturwandel. Was bei Branchen-Kennern manchmal wie ein Running-Gag zitiert wird - meint sie sehr ernst. Und weiß auch sehr genau warum. Denn: Kirsten setzt sich seit über fünfzehn Jahren im Bereich der Modernisierung von Staat und Verwaltung ein und bringt mit ihrem unermüdlichen Engagement die Open Government Szene in Hamburg und der DACH Region mit dem Gov20 Netzwerk zusammen. Danke dafür!"
+  img: /images/friends/Kirsten-Wohlfahrt.png
   title: Vorstand | Government 2.0 Netzwerk 
   urls: 
     - "http://www.gov20.de/"
@@ -41,3 +41,20 @@
     - Kulturwandel 
     - Verwaltung
     - Stammtisch Open Government HH
+
+- name: Marco Maas
+  bio: "Marco in Stichpunkten: großartiger Freund und Mitgründer des Labs, Kommunikator & Netzwerker, (Open-) Data Enthusiast, Ehrenpräsident des Labs auf Lebenszeit, Unternehmer und geschäftsführender Gesellschafter von Datenfreunde GmbH und Open Data City. Ach ja, nebenbei ist Marco noch Datenjournalist, wohnt in einer #Seniorenresidenz mit hunderten von Sensoren - und das sehr gern. Kurz um: Egal ob vor Ort oder digital - Danke!"
+  img: /images/friends/marco-maas.png
+  title: Mitgründer des Labs | Opendatacity
+  urls: 
+    - "http://opendatacity.de"
+    - "http://datenfreunde.de"
+  twitter: themaastrix
+  email: marcomaas@gmail.com
+  logo:
+  tags:
+    - Open Data
+    - Datenjournalismus
+    - Sensorenresidenz
+    - Lab Gründer
+    - Ehrenpräsident 
