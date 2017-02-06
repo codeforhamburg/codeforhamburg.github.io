@@ -156,3 +156,18 @@
   tags: 
     - "Tutorials"
     - "Developer"
+  
+- name: Tom
+  bio: "Tom ist Backend-Programmierer und bastelt nebenbei gerne mit Elektrotechnik."
+  gravatar: 
+  img: /images/members/tom-friedel.png
+  title: Developer
+  urls: 
+    - ""
+  twitter: TomThats
+  email: tom@tom-thats.me
+  logo:
+  tags: 
+    - "Workshops"
+    - "Arduino"
+    - "Developer"
