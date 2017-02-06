@@ -157,7 +157,7 @@
     - "Tutorials"
     - "Developer"
   
-- name: Tom
+- name: Tom Friedel
   bio: "Tom ist Backend-Programmierer und bastelt nebenbei gerne mit Elektrotechnik."
   gravatar: 
   img: /images/members/tom-friedel.png
@@ -171,3 +171,7 @@
     - "Workshops"
     - "Arduino"
     - "Developer"
+    - "PHP"
+    - "nodejs"
+    - "Raspberry Pi"
+    - "WS2811/12"
