@@ -125,21 +125,25 @@
     - "Open Data"
     - "Farben-Nerd"
 
-- name: Volker Eichhorn
-  bio: "Volker hat viele Jahre für Agenturen und Studios Medienproduktionsprozesse analysiert und automatisiert. Jetzt hilft er uns Inhalte zu integrieren und kleinste Informationen in OpenData Systemen zu finden und verfolgen."
+- name: Tom Friedel
+  bio: "Tom ist Backend-Programmierer und bastelt nebenbei gerne mit Elektrotechnik."
   gravatar: 
-  img: /images/members/volker-eichhorn.png
-  title:
+  img: /images/members/tom-friedel.png
+  title: Developer
   urls: 
-    - 
-  twitter: vse__
-  email:
+    - ""
+  twitter: TomThats
+  email: tom@codeforhamburg.org
   logo:
   tags: 
-    - "Open Data"
-    - "Medienproduktionsprozesse"
-    - "Kameraroboter"
-    - "Scraper"
+    - "Workshops"
+    - "Arduino"
+    - "Developer"
+    - "PHP"
+    - "nodejs"
+    - "Raspberry Pi"
+    - "WS2811/12"
+
 
 - name: Tobias Kopietz
   bio: "Tobias ist ex-Werber, sehr kreativ und Philosoph für UX sowie wie die Menschen Apps benutzen! Neben der Theorie programmiert er die Apps dann auch gleich konsequenterweise selber! Und bastelt an neuen Kommunikationsapps und sucht Investoren für die Finanzierung seiner Hauptidee."
@@ -175,6 +179,22 @@
     - "Offenerhaushalt.de"
     - "Mobile Maps"
 
+- name: Volker Eichhorn
+  bio: "Volker hat viele Jahre für Agenturen und Studios Medienproduktionsprozesse analysiert und automatisiert. Jetzt hilft er uns Inhalte zu integrieren und kleinste Informationen in OpenData Systemen zu finden und verfolgen."
+  gravatar: 
+  img: /images/members/volker-eichhorn.png
+  title:
+  urls: 
+    - 
+  twitter: vse__
+  email:
+  logo:
+  tags: 
+    - "Open Data"
+    - "Medienproduktionsprozesse"
+    - "Kameraroboter"
+    - "Scraper"
+
 - name: Lukas
   bio: "Lukas interessiert sich fürs programmieren, testet alles aus und freut sich über jeden Tutorial-Tipp und Unterstützung auf dem Weg zum Informatiker. Außerdem ist Lukas ein super Lab-Mitglied das immer und überall hilft!"
   gravatar: 
@@ -189,21 +209,3 @@
     - "Tutorials"
     - "Developer"
   
-- name: Tom Friedel
-  bio: "Tom ist Backend-Programmierer und bastelt nebenbei gerne mit Elektrotechnik."
-  gravatar: 
-  img: /images/members/tom-friedel.png
-  title: Developer
-  urls: 
-    - ""
-  twitter: TomThats
-  email: tom@codeforhamburg.org
-  logo:
-  tags: 
-    - "Workshops"
-    - "Arduino"
-    - "Developer"
-    - "PHP"
-    - "nodejs"
-    - "Raspberry Pi"
-    - "WS2811/12"
