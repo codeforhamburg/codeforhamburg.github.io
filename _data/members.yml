@@ -78,20 +78,19 @@
     - "Lab Lead"
     
 
-- name: Umut Tas
-  bio: "Unser Mann für Karten und Datenvisualisierung"
+- name: Feena Fensky
+  bio: "Feena ist bei Code for Hamburg insbesondere im Feinstaub-Projekt aktiv"
   gravatar: 
-  img: /images/members/Umut.jpg
-  title: Karten und Daten 
+  img: /images/members/Feena.jpg
+  title: Luftdaten.info 
   urls: 
     - "http://codeforhamburg.org/"
   twitter: 
-  email: 
+  email: feena@codeforhamburg.org
   logo:
   tags: 
-    - "GIS"
-    - "QGIS"
-    - "Geo-Kram"
+    - "Luftdaten.info"
+    - "Feinstaub"
     
 - name: Vera Schmitt
   bio: "Vera ist Datenanalystin und im Vorstand von Correlaid.org - einem weltweit tätigen Verein zur Datenalyse"
