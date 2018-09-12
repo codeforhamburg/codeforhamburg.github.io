@@ -32,7 +32,7 @@
   bio: 
   gravatar:
   img: /images/members/solveig-schroeder.png
-  title: Lab Lead | We-Build.City
+  title: Lab Lead
   urls: 
     - "http://codeforhamburg.org"
     - "http://codingdavinci.de/nord"
@@ -144,23 +144,20 @@
     - "WS2811/12"
 
 
-- name: Tobias Kopietz
-  bio: "Tobias ist ex-Werber, sehr kreativ und Philosoph für UX sowie wie die Menschen Apps benutzen! Neben der Theorie programmiert er die Apps dann auch gleich konsequenterweise selber! Und bastelt an neuen Kommunikationsapps und sucht Investoren für die Finanzierung seiner Hauptidee."
+- name: Karoline Habt
+  bio: "Karoline hat das FORUM Offene Stadt 2018 mitorganisiert und ist neben Code for Hamburg auch gern beim Cradle to Cradle e.V. aktiv."
   gravatar: 
-  img: /images/members/tobias-kopietz.png
+  img: /images/members/karoline-habt.jpg
   title:
   urls: 
-    - "http://kopietzandpaste.com"
+      - "http://codeforhamburg.org"
+      - "https://c2c-ev.de/"
   twitter: 
-  email: apptum@gmail.com
+  email: karo@codeforhamburg.org
   logo:
   tags: 
-    - "Mobile Apps"
-    - "Local based communication"
-    - "Sucht Investoren"
-    - "I <3 UX"
-    - "Android"
-    - "iOS"
+    - "FORUM Offene Stadt"
+    - "Cradle to Cradle"
 
 - name: Bastian Clausdorff
   bio: "Bastian baut im Lab am liebsten sensordatengespeiste Karten."
