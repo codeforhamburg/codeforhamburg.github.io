@@ -1,15 +1,17 @@
-- name: Alina Feustel
-  bio: "Alina ist Lab Lead von Code for Hamburg und setzt sich als Projektmanagerin für die Kommunikation und Organisation von neuen Projekten ein."
-  gravatar: a40fb3f54960c01f7aba20a4ba8899ef
-  img: /images/members/alina-feustel.png
-  title: Lab Lead | Leuphana Digital Media
+- name: Christian Wittig
+  bio: "Als ehemaliger Beamter mischt Christian neuerdings auch bei Code for Hamburg mit."
+  gravatar: 
+  img: /images/members/christian-wittig.jpg
+  title: Lab Lead | Öffentliche Verwaltung 
   urls: 
-    - "http://codeforhamburg.org"
-  twitter: AlinaFeustel
-  email: alina@codeforhamburg.org
+    - "http://codeforhamburg.org/"
+  twitter: 
+  email: christian@codeforhamburg.org
   logo:
-  tags:
-    - Projektmanagerin
+  tags: 
+    - "Komplexe Entscheidungen"
+    - "Open Government"
+    - "Stadtplanung"
     - "Lab Lead"
 
 - name: Philipp Geisler
@@ -61,21 +63,6 @@
     - "Digitale Bürgerbeteiligung"
     - "Lab Lead"
 
-- name: Christian Wittig
-  bio: "Als ehemaliger Beamter mischt Christian neuerdings auch bei Code for Hamburg mit."
-  gravatar: 
-  img: /images/members/christian-wittig.jpg
-  title: Lab Lead | Öffentliche Verwaltung 
-  urls: 
-    - "http://codeforhamburg.org/"
-  twitter: 
-  email: christian@codeforhamburg.org
-  logo:
-  tags: 
-    - "Komplexe Entscheidungen"
-    - "Open Government"
-    - "Stadtplanung"
-    - "Lab Lead"
     
 
 - name: Feena Fensky
@@ -92,6 +79,19 @@
     - "Luftdaten.info"
     - "Feinstaub"
     
+- name: Alina Feustel
+  bio: "Alina setzt sich als Projektmanagerin für die Kommunikation und Organisation von neuen Projekten ein."
+  gravatar: a40fb3f54960c01f7aba20a4ba8899ef
+  img: /images/members/alina-feustel.png
+  title: Leuphana Digital Media
+  urls: 
+    - "http://codeforhamburg.org"
+  twitter: AlinaFeustel
+  email: alina@codeforhamburg.org
+  logo:
+  tags:
+    - Projektmanagerin
+
 - name: Vera Schmitt
   bio: "Vera ist Datenanalystin und im Vorstand von Correlaid.org - einem weltweit tätigen Verein zur Datenalyse"
   gravatar: 
