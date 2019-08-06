@@ -31,7 +31,7 @@
     - "Stadtplanung"
     - "Lab Lead"
     
-- name: Feena Fensky
+ - name: Feena Fensky
   bio: "Feena ist bei Code for Hamburg insbesondere im Feinstaub-Projekt aktiv"
   gravatar: 
   img: /images/members/Feena.jpg
@@ -45,7 +45,7 @@
     - "Luftdaten.info"
     - "Feinstaub"
     
-- name: Timo Lundelius
+ - name: Timo Lundelius
   bio: "Timo ist seit 2014 Code for Hamburg Lab Lead sowie Gründer der digitalen Stadtentwicklungs- und Beteiligungsplattform We-Build.City."
   gravatar: a40fb3f54960c01f7aba20a4ba8899ef
   img: /images/members/timo-lundelius.png
@@ -62,7 +62,7 @@
     - "Digitale Bürgerbeteiligung"
     - "Lab Lead"
     
-- name: Hannes Kröger
+ - name: Hannes Kröger
   bio: ""
   gravatar: 
   img: /images/members/hannes-kroeger.png
@@ -79,7 +79,7 @@
     - "Open Data"
     - "Farben-Nerd"
     
-- name: Julia Thomaschki
+ - name: Julia Thomaschki
   bio: "Julia koordiniert digitale Projekte die das Subjektive Wohlbefinden verbessern & entwickelnde Gesellschaften stärken."
   gravatar: 
   img: /images/members/julia-thomaschki.jpg
@@ -96,7 +96,7 @@
     - "Digitale Bürgerbeteiligung"
     - "Lab Lead"
   
-- name: Tom Friedel
+ - name: Tom Friedel
   bio: "Tom ist Backend-Programmierer und bastelt nebenbei gerne mit Elektrotechnik."
   gravatar: 
   img: /images/members/tom-friedel.png
@@ -115,7 +115,7 @@
     - "Raspberry Pi"
     - "WS2811/12"
     
-- name: Bastian Clausdorff
+ - name: Bastian Clausdorff
   bio: "Bastian baut im Lab am liebsten sensordatengespeiste Karten."
   gravatar: 
   img: /images/members/bastian-clausdorff.png
@@ -131,7 +131,7 @@
     - "Offenerhaushalt.de"
     - "Mobile Maps"
     
-- name: Philipp Geisler
+ - name: Philipp Geisler
   bio: 
   gravatar:
   img: /images/members/philipp-geisler.png
@@ -147,7 +147,7 @@
     - "Kulturhackathon"
     - "Lab Lead"
 
-- name: Karoline Habt
+ - name: Karoline Habt
   bio: "Karoline hat das FORUM Offene Stadt 2018 mitorganisiert und ist neben Code for Hamburg auch gern beim Cradle to Cradle e.V. aktiv."
   gravatar: 
   img: /images/members/karoline-habt.jpg
@@ -162,15 +162,15 @@
     - "FORUM Offene Stadt"
     - "Cradle to Cradle"
     
-- name: Michael Fischer
+ - name: Michael Fischer
   bio: "Head of Real-Time Data at Urban Data Hub bei Free and Hanseatic City of Hamburg"
   gravatar: 
-  img: /images/members/michael-fischer
+  img: /images/members/michael-fischer.jpg
   title: Software developer, GIS
   urls: 
-    - "http://hannes.enjoys.it/blog/"
-  twitter: cartocalypse
-  email: hannes äht enjoys.it
+    - ""
+  twitter: 
+  email: 
   logo:
   tags: 
     - "GIS"
@@ -179,7 +179,7 @@
     - "Open Data"
     - "Urban Data"
     
-- name: Ole Röntgen
+ - name: Ole Röntgen
 - bio: " "
   gravatar:
   title:
@@ -194,7 +194,7 @@
     - "TU Hamburg"
     - "Geographie" 
     
-- name: Alina Feustel
+ - name: Alina Feustel
   bio: "Alina setzt sich als Projektmanagerin für die Kommunikation und Organisation von neuen Projekten ein."
   gravatar: a40fb3f54960c01f7aba20a4ba8899ef
   img: /images/members/alina-feustel.png
@@ -207,7 +207,7 @@
   tags:
     - Projektmanagerin
 
-- name: Vera Schmitt
+ - name: Vera Schmitt
   bio: "Vera ist Datenanalystin und im Vorstand von Correlaid.org - einem weltweit tätigen Verein zur Datenalyse"
   gravatar: 
   img: /images/members/vera-schmitt.png
@@ -221,7 +221,7 @@
     - "Datenanalyse"
     - "Open Data"
 
-- name: Christopher Bohlens
+ - name: Christopher Bohlens
   bio: "Vera ist Datenanalystin und im Vorstand von Correlaid.org - einem weltweit tätigen Verein zur Datenalyse"
   gravatar: 
   img: /images/members/christopher-bohlens.jpeg
