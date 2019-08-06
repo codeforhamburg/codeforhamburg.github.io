@@ -1,236 +1,236 @@
- - name: Solveig Schröder
-  bio: "1. Vorsitzende | Lab Lead
-  gravatar:
-  img: /images/members/solveig-schroeder.png
-  title: Lab Lead
-  urls: 
-    - "http://codeforhamburg.org"
-    - "http://codingdavinci.de/nord"
-  twitter: SolveigSchroder
-  email: solveig@codeforhamburg.org
-  logo:
-  tags: 
-    - "Umwelt Kommunikation"
-    - "Digitale Bürgerbeteiligung"
-    - "Lab Lead"
-    
-    
- - name: Christian Wittig
-  bio: "2. Vorsitzender | Lab Lead | Als ehemaliger Beamter mischt Christian neuerdings auch bei Code for Hamburg mit."
-  gravatar: 
-  img: /images/members/christian-wittig.jpg
-  title: Lab Lead | Öffentliche Verwaltung 
-  urls: 
-    - "http://codeforhamburg.org/"
-  twitter: 
-  email: christian@codeforhamburg.org
-  logo:
-  tags: 
-    - "Komplexe Entscheidungen"
-    - "Open Government"
-    - "Stadtplanung"
-    - "Lab Lead"
-    
- - name: Feena Fensky
-  bio: "Feena ist bei Code for Hamburg insbesondere im Feinstaub-Projekt aktiv"
-  gravatar: 
-  img: /images/members/Feena.jpg
-  title: Luftdaten.info 
-  urls: 
-    - "http://codeforhamburg.org/"
-  twitter: 
-  email: feena@codeforhamburg.org
-  logo:
-  tags: 
-    - "Luftdaten.info"
-    - "Feinstaub"
-    
- - name: Timo Lundelius
-  bio: "Timo ist seit 2014 Code for Hamburg Lab Lead sowie Gründer der digitalen Stadtentwicklungs- und Beteiligungsplattform We-Build.City."
-  gravatar: a40fb3f54960c01f7aba20a4ba8899ef
-  img: /images/members/timo-lundelius.png
-  title: Lab Lead | We-Build.City
-  urls: 
-    - "http://codeforhamburg.org"
-    - "http://we-build.city"
-  twitter: timo_lundelius
-  email: timo@codeforhamburg.org
-  logo:
-  tags: 
-    - "Open Data"
-    - "Open Government"
-    - "Digitale Bürgerbeteiligung"
-    - "Lab Lead"
-    
- - name: Hannes Kröger
-  bio: ""
-  gravatar: 
-  img: /images/members/hannes-kroeger.png
-  title: Experte für Geo-Gedöns und dieses "GIS"
-  urls: 
-    - "http://hannes.enjoys.it/blog/"
-  twitter: cartocalypse
-  email: hannes äht enjoys.it
-  logo:
-  tags: 
-    - "GIS"
-    - "QGIS"
-    - "Geo-Kram"
-    - "Open Data"
-    - "Farben-Nerd"
-    
- - name: Julia Thomaschki
-  bio: "Julia koordiniert digitale Projekte die das Subjektive Wohlbefinden verbessern & entwickelnde Gesellschaften stärken."
-  gravatar: 
-  img: /images/members/julia-thomaschki.jpg
-  title: Projekt Managerin | FORUM Offene Stadt
-  urls: 
-    - "http://codeforhamburg.org"
-    - "http://offenestadt.info"
-  twitter: j_thomaschki
-  email: julia@codeforhamburg.org
-  logo:
-  tags: 
-    - "Open Data"
-    - "Open Government"
-    - "Digitale Bürgerbeteiligung"
-    - "Lab Lead"
+- name: Solveig Schröder
+bio: "1. Vorsitzende | Lab Lead
+gravatar:
+img: /images/members/solveig-schroeder.png
+title: Lab Lead
+urls: 
+  - "http://codeforhamburg.org"
+  - "http://codingdavinci.de/nord"
+twitter: SolveigSchroder
+email: solveig@codeforhamburg.org
+logo:
+tags: 
+  - "Umwelt Kommunikation"
+  - "Digitale Bürgerbeteiligung"
+  - "Lab Lead"
   
- - name: Tom Friedel
-  bio: "Tom ist Backend-Programmierer und bastelt nebenbei gerne mit Elektrotechnik."
-  gravatar: 
-  img: /images/members/tom-friedel.png
-  title: Developer
-  urls: 
-    - ""
-  twitter: TomThats
-  email: tom@codeforhamburg.org
-  logo:
-  tags: 
-    - "Workshops"
-    - "Arduino"
-    - "Developer"
-    - "PHP"
-    - "nodejs"
-    - "Raspberry Pi"
-    - "WS2811/12"
-    
- - name: Bastian Clausdorff
-  bio: "Bastian baut im Lab am liebsten sensordatengespeiste Karten."
-  gravatar: 
-  img: /images/members/bastian-clausdorff.png
-  title: iOS Developer
-  urls: 
-    - "http://digitalstuff.de/"
-  twitter: bclausdorff
-  email: mail@digitalstuff.de
-  logo:
-  tags: 
-    - "iOS"
-    - "Leaflet"
-    - "Offenerhaushalt.de"
-    - "Mobile Maps"
-    
- - name: Philipp Geisler
-  bio: 
-  gravatar:
-  img: /images/members/philipp-geisler.png
-  title: Lab Lead | Coding Da Vinci Nord
-  urls: 
+  
+- name: Christian Wittig
+bio: "2. Vorsitzender | Lab Lead | Als ehemaliger Beamter mischt Christian neuerdings auch bei Code for Hamburg mit."
+gravatar: 
+img: /images/members/christian-wittig.jpg
+title: Lab Lead | Öffentliche Verwaltung 
+urls: 
+  - "http://codeforhamburg.org/"
+twitter: 
+email: christian@codeforhamburg.org
+logo:
+tags: 
+  - "Komplexe Entscheidungen"
+  - "Open Government"
+  - "Stadtplanung"
+  - "Lab Lead"
+  
+- name: Feena Fensky
+bio: "Feena ist bei Code for Hamburg insbesondere im Feinstaub-Projekt aktiv"
+gravatar: 
+img: /images/members/Feena.jpg
+title: Luftdaten.info 
+urls: 
+  - "http://codeforhamburg.org/"
+twitter: 
+email: feena@codeforhamburg.org
+logo:
+tags: 
+  - "Luftdaten.info"
+  - "Feinstaub"
+  
+- name: Timo Lundelius
+bio: "Timo ist seit 2014 Code for Hamburg Lab Lead sowie Gründer der digitalen Stadtentwicklungs- und Beteiligungsplattform We-Build.City."
+gravatar: a40fb3f54960c01f7aba20a4ba8899ef
+img: /images/members/timo-lundelius.png
+title: Lab Lead | We-Build.City
+urls: 
+  - "http://codeforhamburg.org"
+  - "http://we-build.city"
+twitter: timo_lundelius
+email: timo@codeforhamburg.org
+logo:
+tags: 
+  - "Open Data"
+  - "Open Government"
+  - "Digitale Bürgerbeteiligung"
+  - "Lab Lead"
+  
+- name: Hannes Kröger
+bio: ""
+gravatar: 
+img: /images/members/hannes-kroeger.png
+title: Experte für Geo-Gedöns und dieses "GIS"
+urls: 
+  - "http://hannes.enjoys.it/blog/"
+twitter: cartocalypse
+email: hannes äht enjoys.it
+logo:
+tags: 
+  - "GIS"
+  - "QGIS"
+  - "Geo-Kram"
+  - "Open Data"
+  - "Farben-Nerd"
+  
+- name: Julia Thomaschki
+bio: "Julia koordiniert digitale Projekte die das Subjektive Wohlbefinden verbessern & entwickelnde Gesellschaften stärken."
+gravatar: 
+img: /images/members/julia-thomaschki.jpg
+title: Projekt Managerin | FORUM Offene Stadt
+urls: 
+  - "http://codeforhamburg.org"
+  - "http://offenestadt.info"
+twitter: j_thomaschki
+email: julia@codeforhamburg.org
+logo:
+tags: 
+  - "Open Data"
+  - "Open Government"
+  - "Digitale Bürgerbeteiligung"
+  - "Lab Lead"
+
+- name: Tom Friedel
+bio: "Tom ist Backend-Programmierer und bastelt nebenbei gerne mit Elektrotechnik."
+gravatar: 
+img: /images/members/tom-friedel.png
+title: Developer
+urls: 
+  - ""
+twitter: TomThats
+email: tom@codeforhamburg.org
+logo:
+tags: 
+  - "Workshops"
+  - "Arduino"
+  - "Developer"
+  - "PHP"
+  - "nodejs"
+  - "Raspberry Pi"
+  - "WS2811/12"
+  
+- name: Bastian Clausdorff
+bio: "Bastian baut im Lab am liebsten sensordatengespeiste Karten."
+gravatar: 
+img: /images/members/bastian-clausdorff.png
+title: iOS Developer
+urls: 
+  - "http://digitalstuff.de/"
+twitter: bclausdorff
+email: mail@digitalstuff.de
+logo:
+tags: 
+  - "iOS"
+  - "Leaflet"
+  - "Offenerhaushalt.de"
+  - "Mobile Maps"
+  
+- name: Philipp Geisler
+bio: 
+gravatar:
+img: /images/members/philipp-geisler.png
+title: Lab Lead | Coding Da Vinci Nord
+urls: 
+  - "http://codeforhamburg.org"
+  - "http://codingdavinci.de/nord"
+twitter: zelpst
+email: philipp@codeforhamburg.org
+logo:
+tags: 
+  - "Coding Da Vinci Nord"
+  - "Kulturhackathon"
+  - "Lab Lead"
+
+- name: Karoline Habt
+bio: "Karoline hat das FORUM Offene Stadt 2018 mitorganisiert und ist neben Code for Hamburg auch gern beim Cradle to Cradle e.V. aktiv."
+gravatar: 
+img: /images/members/karoline-habt.jpg
+title:
+urls: 
     - "http://codeforhamburg.org"
-    - "http://codingdavinci.de/nord"
-  twitter: zelpst
-  email: philipp@codeforhamburg.org
-  logo:
-  tags: 
-    - "Coding Da Vinci Nord"
-    - "Kulturhackathon"
-    - "Lab Lead"
+    - "https://c2c-ev.de/"
+twitter: 
+email: karo@codeforhamburg.org
+logo:
+tags: 
+  - "FORUM Offene Stadt"
+  - "Cradle to Cradle"
+  
+- name: Michael Fischer
+bio: "Head of Real-Time Data at Urban Data Hub bei Free and Hanseatic City of Hamburg"
+gravatar: 
+img: /images/members/michael-fischer.jpg
+title: Software developer, GIS
+urls: 
+  - ""
+twitter: 
+email: 
+logo:
+tags: 
+  - "GIS"
+  - "QGIS"
+  - "Real-time spatial data"
+  - "Open Data"
+  - "Urban Data"
+  
+- name: Ole Röntgen
+bio: " "
+gravatar:
+title:
+urls:
+  - " "
+twitter:
+email: ole.roentgen(at)tuhh.de 
+logo:
+tags:
+  - "GIS"
+  - "Verkehrsplanung und Logistik"
+  - "TU Hamburg"
+  - "Geographie" 
+  
+- name: Alina Feustel
+bio: "Alina setzt sich als Projektmanagerin für die Kommunikation und Organisation von neuen Projekten ein."
+gravatar: a40fb3f54960c01f7aba20a4ba8899ef
+img: /images/members/alina-feustel.png
+title: Leuphana Digital Media
+urls: 
+  - "http://codeforhamburg.org"
+twitter: AlinaFeustel
+email: alina@codeforhamburg.org
+logo:
+tags:
+  - Projektmanagerin
 
- - name: Karoline Habt
-  bio: "Karoline hat das FORUM Offene Stadt 2018 mitorganisiert und ist neben Code for Hamburg auch gern beim Cradle to Cradle e.V. aktiv."
-  gravatar: 
-  img: /images/members/karoline-habt.jpg
-  title:
-  urls: 
-      - "http://codeforhamburg.org"
-      - "https://c2c-ev.de/"
-  twitter: 
-  email: karo@codeforhamburg.org
-  logo:
-  tags: 
-    - "FORUM Offene Stadt"
-    - "Cradle to Cradle"
-    
- - name: Michael Fischer
-  bio: "Head of Real-Time Data at Urban Data Hub bei Free and Hanseatic City of Hamburg"
-  gravatar: 
-  img: /images/members/michael-fischer.jpg
-  title: Software developer, GIS
-  urls: 
-    - ""
-  twitter: 
-  email: 
-  logo:
-  tags: 
-    - "GIS"
-    - "QGIS"
-    - "Real-time spatial data"
-    - "Open Data"
-    - "Urban Data"
-    
- - name: Ole Röntgen
-  bio: " "
-  gravatar:
-  title:
-  urls:
-    - " "
-  twitter:
-  email: ole.roentgen(at)tuhh.de 
-  logo:
-  tags:
-    - "GIS"
-    - "Verkehrsplanung und Logistik"
-    - "TU Hamburg"
-    - "Geographie" 
-    
- - name: Alina Feustel
-  bio: "Alina setzt sich als Projektmanagerin für die Kommunikation und Organisation von neuen Projekten ein."
-  gravatar: a40fb3f54960c01f7aba20a4ba8899ef
-  img: /images/members/alina-feustel.png
-  title: Leuphana Digital Media
-  urls: 
-    - "http://codeforhamburg.org"
-  twitter: AlinaFeustel
-  email: alina@codeforhamburg.org
-  logo:
-  tags:
-    - Projektmanagerin
+- name: Vera Schmitt
+bio: "Vera ist Datenanalystin und im Vorstand von Correlaid.org - einem weltweit tätigen Verein zur Datenalyse"
+gravatar: 
+img: /images/members/vera-schmitt.png
+title: Correlaid 
+urls: 
+  - "http://correlaid.org/"
+twitter: schmitt_vera
+email: vera.s@correlaid.org
+logo:
+tags: 
+  - "Datenanalyse"
+  - "Open Data"
 
- - name: Vera Schmitt
-  bio: "Vera ist Datenanalystin und im Vorstand von Correlaid.org - einem weltweit tätigen Verein zur Datenalyse"
-  gravatar: 
-  img: /images/members/vera-schmitt.png
-  title: Correlaid 
-  urls: 
-    - "http://correlaid.org/"
-  twitter: schmitt_vera
-  email: vera.s@correlaid.org
-  logo:
-  tags: 
-    - "Datenanalyse"
-    - "Open Data"
-
- - name: Christopher Bohlens
-  bio: "Vera ist Datenanalystin und im Vorstand von Correlaid.org - einem weltweit tätigen Verein zur Datenalyse"
-  gravatar: 
-  img: /images/members/christopher-bohlens.jpeg
-  title: Projektmitarbeiter bei FragDenStaat.de 
-  urls: 
-    - "https://fragdenstaat.de/"
-  twitter: cbohlens
-  email: christopher.bohlens@okfn.de
-  logo:
-  tags: 
-    - "Datenanalyse"
-    - "Open Data"
+- name: Christopher Bohlens
+bio: "Vera ist Datenanalystin und im Vorstand von Correlaid.org - einem weltweit tätigen Verein zur Datenalyse"
+gravatar: 
+img: /images/members/christopher-bohlens.jpeg
+title: Projektmitarbeiter bei FragDenStaat.de 
+urls: 
+  - "https://fragdenstaat.de/"
+twitter: cbohlens
+email: christopher.bohlens@okfn.de
+logo:
+tags: 
+  - "Datenanalyse"
+  - "Open Data"
