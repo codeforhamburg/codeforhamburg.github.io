@@ -34,19 +34,24 @@ title: Wir
           <p>
             {{ member.bio }}
           </p>
-          <p>  
-              <a href="mailto:{{ member.email }}">
-                <i class="fa fa-envelope-o" aria-hidden="true"></i> {{ member.email }}</a>
-          
-              <br>
-              
-              <a href="http://twitter.com/{{ member.twitter }}" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i> {{ member.twitter }}</a>
+          <p> 
+            {% if member.email == true %} 
+            <a href="mailto:{{ member.email }}"><i class="fa fa-envelope-o" aria-hidden="true"></i> {{ member.email }}</a>
+            {% endif %}
+        
+            <br>
+            
+            {% if member.twitter == true %}
+            <a href="http://twitter.com/{{ member.twitter }}" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i> {{ member.twitter }}</a>
+            {% endif %}
           </p>
           
           <p>
           {% for url in member.urls %}
+            {% if url == true %}
             <a href="{{ url }}" target="_blank"><i class="fa fa-link" aria-hidden="true"></i> {{ url }}</a>
             <br>
+            {% endif %}
           {% endfor %}
             
           </p>
