@@ -1,4 +1,6 @@
-# DEPRECATED!
+# DEPRECATED! 
+
+New website here: https://gitlab.com/codeforhamburg/website
 
 # http://codefor.hamburg [![Build Status](https://travis-ci.org/codeforhamburg/codeforhamburg.github.io.svg?branch=master)](https://travis-ci.org/codeforhamburg/codeforhamburg.github.io)
 
