@@ -1,3 +1,5 @@
+# DEPRECATED!
+
 # http://codefor.hamburg [![Build Status](https://travis-ci.org/codeforhamburg/codeforhamburg.github.io.svg?branch=master)](https://travis-ci.org/codeforhamburg/codeforhamburg.github.io)
 
 The website for the Code for Hamburg Lab
